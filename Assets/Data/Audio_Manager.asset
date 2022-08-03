@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6a7fc7cb7d8b84fbe2fdbefc01ec15, type: 3}
+  m_Name: Audio_Manager
+  m_EditorClassIdentifier: 
+  SoundBank:
+  - MyName: Character
+    SoundArray:
+    - MyName: 
+      ClipArray: []
+      Volume: 0
+      Pitch: 0
+      SpatialBlend: 0
+      Islooping: 0
+      StartAtSpecificTime: 0
+      StartAtTime: 0
+      MyMixer: {fileID: 0}
+      MinDistance: 0
+      MaxDistance: 0
+      VolumeRollof: 0
